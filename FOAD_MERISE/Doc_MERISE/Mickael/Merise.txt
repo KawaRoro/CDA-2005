@@ -1,0 +1,7 @@
+
+La méthode Merise est une méthode d'analyse, de conception et de modélisation de systèmes d'information. Cette
+méthode de gestion de projet est particulièrement adaptée à la conception de bases de données de plusieurs types (Fichiers ou MySQL).
+Le but est développer une méthode à la fois comprise pour le client et pour le développeur. C'est une norme. Pour structurées 
+les données en Merise on part d'un cahier des charges, puis l'expression des besoins, le modèle conceptuel des données, le modèle 
+conceptuel des traitements, le modèle physique des données.
+

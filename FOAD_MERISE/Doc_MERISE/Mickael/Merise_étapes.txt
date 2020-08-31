@@ -1,0 +1,16 @@
+Étapes essentielles à la modélisation des données d’un système d’information :
+
+  1.  Référencement des données et de leur type
+  2.  Référencement des règles de gestion et d’organisation
+  3.  Identification des dépendances entre les entités (associations UML vs dépendances fonctionnelles Merise)
+  4.  Modélisation d’un Modèle Conceptuel (Diagramme de classes UML vs Diagramme « entité-association » Merise)
+  5.  Validation du modèle conceptuel (normalisation)
+  6.  Modélisation d’un modèle logique à partir du modèle conceptuel (UML --> Objets, classes  |  Merise --> Relations)
+  7.  Implémentation du modèle physique des données (choix du SGBD, scripts SQL pour créer la base de données modélisée)
+  8.  Tests
+  9.  Implémentation des composants d’accès aux données (C#, PHP, Java, composants SQL avancés…)
+  10. Tests
+  11. Livraison
+  12. Retour client
+  13. Recommencer à l’étape 1
+  14.  😃
