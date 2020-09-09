@@ -1,0 +1,1 @@
+SELECT emp.DEPTNO FROM employe_dept.emp WHERE emp.ENAME LIKE "ALLEN" ;

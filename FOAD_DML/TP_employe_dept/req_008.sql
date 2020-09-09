@@ -1,0 +1,1 @@
+SELECT DISTINCT emp.JOB FROM employe_dept.emp ORDER BY emp.JOB;

@@ -1,0 +1,1 @@
+SELECT * FROM employe_dept.emp ORDER BY emp.JOB DESC, emp.SAL DESC;

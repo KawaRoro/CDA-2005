@@ -1,0 +1,1 @@
+SELECT * FROM employe_dept.emp WHERE emp.SAL BETWEEN 1200 AND 1400;

@@ -1,0 +1,1 @@
+SELECT * FROM employe_dept.emp WHERE emp.JOB LIKE 'MANAGER' AND DEPTNO != 30;
